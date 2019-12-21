@@ -1,0 +1,11 @@
+/* th, td { white-space: nowrap; }
+    div.dataTables_wrapper {
+        width: 800px;
+        margin: 0 auto;
+    } */
+
+    table.dataTable.dataTable_width_auto {
+        width: auto;
+      }
+    
+    th.big-col{ width:400px !important; } table#data-table{ table-layout:fixed; }
